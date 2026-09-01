@@ -1,0 +1,18 @@
+main:
+  - title: "Beranda"
+    url: /
+
+  - title: "Publikasi"
+    url: /publikasi/
+
+  - title: "Pengajaran"
+    url: /pengajaran/
+
+  - title: "Pengabdian Masyarakat"
+    url: /pengabdian-masyarakat/
+
+  - title: "Portofolio"
+    url: /portofolio/
+
+  - title: "CV"
+    url: /cv/

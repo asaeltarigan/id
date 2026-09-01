@@ -1,0 +1,79 @@
+{% include base_path %}
+
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+{% if page.url == '/' %}
+<link rel="alternate" hreflang="id" href="https://asaeltarigan.github.io/id/">
+<link rel="alternate" hreflang="en" href="https://asaeltarigan.github.io/">
+<link rel="alternate" hreflang="x-default" href="https://asaeltarigan.github.io/">
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://asaeltarigan.github.io/id/#person",
+  "name": "Gabriel Asael Tarigan",
+  "alternateName": "Asael Tarigan",
+  "givenName": "Gabriel Asael",
+  "familyName": "Tarigan",
+  "honorificSuffix": "S.Kom., M.Kom.",
+  "jobTitle": "Dosen AI (Artificial Intelligence) di BINUS University",
+  "worksFor": {
+    "@type": "EducationalOrganization",
+    "name": "BINUS University",
+    "url": "https://socs.binus.ac.id/"
+  },
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "BINUS University",
+      "url": "https://binus.ac.id/"
+    }
+  ],
+  "knowsLanguage": ["id", "en"],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "Kecerdasan Buatan",
+    "Machine Learning",
+    "Pembelajaran Mesin",
+    "Deep Learning",
+    "Computer Vision",
+    "MLOps",
+    "Peramalan Deret Waktu"
+  ],
+  "url": "https://asaeltarigan.github.io/id/",
+  "identifier": "https://orcid.org/0009-0005-2246-5209",
+  "sameAs": [
+    "https://orcid.org/0009-0005-2246-5209",
+    "https://scholar.google.com/citations?user=FCaQ7i0AAAAJ",
+    "https://www.researchgate.net/profile/Gabriel-Asael-Tarigan",
+    "https://www.linkedin.com/in/gabrielasael/",
+    "https://asaeltarigan.medium.com/",
+    "https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/",
+    "https://github.com/asaeltarigan",
+    "https://asaeltarigan.github.io/"
+  ]
+}
+</script>
+
+{% unless page.header.image or page.header.overlay_image %}
+  <meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+  <meta name="twitter:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+{% endunless %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css?v=9">

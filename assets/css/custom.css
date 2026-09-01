@@ -1,0 +1,248 @@
+/* ============================================================
+   Custom design layer: navy accent + classy sidebar card
+   Loaded after main.css in head.html. Overrides CSS variables
+   and adds sidebar/section polish.
+   ============================================================ */
+
+:root {
+  --global-base-color: #1f3a5f;
+  --global-link-color: #1f5c8b;
+  --global-link-color-hover: #16324f;
+  --global-link-color-visited: #3a6ea5;
+  --global-masthead-link-color-hover: #1f3a5f;
+  --global-border-color: #d8e2ee;
+  --global-code-background-color: #f6f8fb;
+}
+
+html[data-theme="dark"] {
+  --global-base-color: #93b4d8;
+  --global-link-color: #8ab4d8;
+  --global-link-color-hover: #b0cde8;
+  --global-link-color-visited: #7fb3d5;
+  --global-border-color: #243049;
+  --global-code-background-color: #16213a;
+}
+
+/* Sidebar: avatar ring + sane size (theme renders it oversized) */
+.author__avatar img {
+  border: 3px solid var(--global-base-color, #1f3a5f);
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(31, 58, 95, 0.18);
+  width: 130px;
+  height: 130px;
+}
+
+/* Sidebar: theme JS forces position:fixed which overlaps the footer on short
+   pages, and adds 65px inline padding. Static + content-height + a height cap
+   guarantees the sidebar can never collide with the footer at any viewport.
+   Scrollbar hidden (wheel/touch still scroll); desc gets breathing room. */
+.sidebar.sticky {
+  position: static !important;
+  align-self: start;
+  padding-top: 0 !important;
+  max-height: calc(100vh - 10em);
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.sidebar.sticky::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+}
+
+.sidebar .author__content {
+  padding-right: 0.7rem;
+}
+
+@media (max-width: 768px) {
+  /* Mobile: sidebar stacks at top, no footer collision -> no cap, no scroll */
+  .sidebar.sticky {
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+/* Sidebar: name + bio colors */
+.author__name {
+  color: var(--global-base-color, #1f3a5f);
+}
+
+.author__bio {
+  color: #4b5a6a;
+}
+
+html[data-theme="dark"] .author__bio {
+  color: #94a3b8;
+}
+
+/* Sidebar: icon links hover */
+.author__urls li a:hover {
+  color: var(--global-base-color, #1f3a5f);
+}
+
+/* Section headers: accent underline */
+.archive__subtitle,
+.page__inner h2 {
+  color: var(--global-base-color, #1f3a5f);
+}
+
+.archive__subtitle {
+  border-bottom: 2px solid var(--global-border-color, #d8e2ee);
+  padding-bottom: 0.35rem;
+}
+
+/* Footer: quiet */
+.page__footer-copyright {
+  color: #6b7280;
+  font-size: 0.85em;
+}
+
+/* ---------- Blog list cards with thumbnails ---------- */
+
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.blog-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  border: 1px solid var(--global-border-color, #d8e2ee);
+  border-radius: 12px;
+  padding: 0.85rem;
+  background: var(--global-code-background-color, #f6f8fb);
+  color: #1f2937;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.blog-item:hover {
+  border-color: var(--global-base-color, #1f3a5f);
+  box-shadow: 0 2px 8px rgba(31, 58, 95, 0.08);
+  text-decoration: none;
+}
+
+html[data-theme="dark"] .blog-item {
+  background: #16213a;
+  color: #e5e7eb;
+}
+
+.blog-thumb {
+  width: 110px;
+  height: 82px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex: 0 0 auto;
+  border: 1px solid var(--global-border-color, #d8e2ee);
+}
+
+.blog-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+.blog-title {
+  font-weight: 700;
+}
+
+.blog-date {
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+html[data-theme="dark"] .blog-date {
+  color: #94a3b8;
+}
+
+.blog-excerpt {
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+html[data-theme="dark"] .blog-excerpt {
+  color: #94a3b8;
+}
+
+@media (max-width: 480px) {
+  .blog-thumb {
+    width: 84px;
+    height: 64px;
+  }
+}
+
+/* ---------- Sidebar scroll-down hint arrow ---------- */
+
+.sidebar {
+  position: relative;
+}
+
+.sidebar-scroll-hint {
+  position: sticky;
+  bottom: 8px;
+  width: 26px;
+  height: 26px;
+  margin: 6px auto 0;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 1px solid #d8e2ee;
+  color: #1f3a5f;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  pointer-events: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  z-index: 5;
+}
+
+html[data-theme="dark"] .sidebar-scroll-hint {
+  background: #16213a;
+  border-color: #243049;
+  color: #93b4d8;
+}
+
+/* Teaching page section grouping (authored vs taught) */
+.teaching-section {
+  font-size: 1.45em;
+  font-weight: 700;
+  color: #1f3a5f;
+  border-bottom: 3px solid #2dd4bf;
+  padding-bottom: 0.25em;
+  margin-top: 2.2em;
+}
+.teaching-section-note {
+  color: #5a6b80;
+  font-style: italic;
+  margin-bottom: 1.6em;
+}
+html[data-theme="dark"] .teaching-section { color: #e2e8f0; }
+html[data-theme="dark"] .teaching-section-note { color: #94a3b8; }
+
+/* Other courses taught list */
+.teaching-subsection {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #1f3a5f;
+  margin-top: 2em;
+}
+.taught-list {
+  columns: 2;
+  -webkit-columns: 2;
+  column-gap: 3em;
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.6em;
+}
+.taught-list li {
+  padding: 0.35em 0 0.35em 0.9em;
+  border-left: 3px solid #2dd4bf;
+  margin-bottom: 0.4em;
+  color: #33475b;
+}
+html[data-theme="dark"] .teaching-subsection { color: #e2e8f0; }
+html[data-theme="dark"] .taught-list li { color: #cbd5e1; border-left-color: #2dd4bf; }
