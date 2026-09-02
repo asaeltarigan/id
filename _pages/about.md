@@ -10,7 +10,7 @@ redirect_from:
 
 *Versi Bahasa Inggris dari situs ini tersedia di [asaeltarigan.github.io](https://asaeltarigan.github.io/).*
 
-Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan Peneliti di [BINUS University](https://www.binus.ac.id) (School of Computer Science), serta menjabat sebagai Subject Content Coordinator untuk Program Artificial Intelligence. Saya merancang dan menulis kurikulum inti AI/ML, sekaligus membangun sistem produksi yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual yang interaktif.
+Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan Peneliti di [BINUS University](https://www.binus.ac.id) (School of Computer Science). Saya merancang dan menulis kurikulum inti AI/ML, sekaligus membangun sistem produksi yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual yang interaktif.
 
 Fokus penelitian saya: **Deep Learning**, **Computer Vision** (pose estimation dan deteksi engagement), **Peramalan Deret Waktu**, dan **Sistem ML Terapan**. Saat ini saya sedang mempersiapkan aplikasi program doktoral (PhD) di bidang machine learning.
 
