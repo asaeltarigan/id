@@ -10,6 +10,7 @@ Di luar ruang kelas, saya merancang dan memberikan lokakarya, pelatihan, dan pen
 <h2 class="teaching-section">Lokakarya sekolah dan penjangkauan</h2>
 <ul class="taught-list">
   <li>Kelas percobaan (trial class) dan sesi pengenalan pemrograman untuk SMA Karangturi, SMA Kesatuan, SMAN 82, SMA Immanuel, SMA Saint John, dan SMA Narada</li>
+  <li>Kelas percobaan (trial class) dan sesi pengenalan pemrograman untuk SMA Kristoforus 2, SMA Tarsisius, dan SMA Regina Pacis</li>
   <li>Lokakarya coding dengan AI untuk SMA Yakobus</li>
   <li>Lokakarya pemrograman untuk Binus School Bekasi</li>
   <li>Sesi ekstrakurikuler (ekskul) pemrograman</li>
