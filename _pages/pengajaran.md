@@ -22,5 +22,5 @@ author_profile: true
 <h2 class="teaching-section">Mata kuliah yang pernah diampu</h2>
 <ul class="taught-list">
   <li><strong>Research Methodology</strong> dan <strong>Final Year Project Preparation (B2030)</strong>: metodologi penelitian dan persiapan tugas akhir.</li>
-  <li>Mata kuliah lain yang pernah diampu: Struktur Data, Computer Vision, Data Mining (termasuk Global Class), Code Reengineering, dan Foundations of AI.</li>
+  <li>Mata kuliah lain yang pernah diampu: Struktur Data (dalam C), Computer Vision, Data Mining (termasuk Global Class), Code Reengineering, dan Foundations of AI.</li>
 </ul>
