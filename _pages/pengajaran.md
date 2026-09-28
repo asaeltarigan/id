@@ -9,7 +9,7 @@ author_profile: true
 <p class="teaching-section-note">Delapan mata kuliah inti yang saya rancang dan tulis silabusnya untuk Program Artificial Intelligence BINUS.</p>
 <ul class="taught-list">
   <li><strong>Deep Learning (COSC6051001)</strong>: fondasi deep learning selama 13 minggu dengan laboratorium praktik (referensi utama: Bishop dan Bishop, 2023).</li>
-  <li><strong>Machine Learning Operations (COMP6984001)</strong>: siklus hidup sistem machine learning produksi, program pascasarjana.</li>
+  <li><strong>Machine Learning Operations (COMP6984001)</strong>: siklus hidup sistem machine learning produksi untuk Program Artificial Intelligence.</li>
   <li><strong>Machine Learning (COMP6577001)</strong>: mata kuliah inti machine learning untuk program studi Computer Science.</li>
   <li><strong>Artificial Intelligence Solution (COMP6986001)</strong>: solusi AI berorientasi pemimpin bisnis.</li>
   <li><strong>Applied Natural Language Processing (COMP6965001)</strong>: NLP terapan yang berpusat pada model bahasa besar (LLM).</li>
