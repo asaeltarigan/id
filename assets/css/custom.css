@@ -99,9 +99,15 @@ html[data-theme="dark"] .author__bio {
   font-size: 0.85em;
 }
 
-/* Content must clear the theme's pinned (.page__footer position:fixed) footer. */
+/* Content must clear the theme's pinned (.page__footer position:fixed) footer.
+   Keep the footer in normal flow on desktop so it never overlaps content. */
 @media (min-width: 769px) {
-  #main { padding-bottom: 5em; }
+  .page__footer {
+    position: static;
+    float: none;
+    margin-top: 2em;
+  }
+  #main { padding-bottom: 2em; }
 }
 
 /* ---------- Blog list cards with thumbnails ---------- */
