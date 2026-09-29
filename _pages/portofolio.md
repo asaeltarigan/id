@@ -5,16 +5,56 @@ permalink: /portofolio/
 author_profile: true
 ---
 
-Proyek dan sistem yang saya bangun, dari platform produksi hingga alat belajar interaktif.
+<p class="portfolio-intro">Sistem yang saya rancang, bangun, dan jalankan sendiri. Bukti nyata, bukan sekadar klaim: semua berjalan di produksi dan menopang Program AI BINUS.</p>
 
-<h2 class="teaching-section">Platform Kompetisi ML (ARISE)</h2>
-<p>Platform kompetisi machine learning gaya Kaggle untuk mahasiswa AI BINUS, dihosting efisien pada satu VPS: FastAPI, tunnel cloudflared, kuota submit harian, pipeline penilaian otomatis, dan analitik.</p>
+<div class="pf-feature">
+  <div class="pf-feature-body">
+    <span class="pf-feature-flag">Karya utama</span>
+    <h2 class="pf-feature-title">Platform Kompetisi ML (ARISE)</h2>
+    <p class="pf-feature-excerpt">Platform kompetisi machine learning gaya Kaggle untuk mahasiswa AI BINUS, dihosting efisien pada satu VPS.</p>
+    <ul class="pf-stats">
+      <li>FastAPI + uvicorn</li>
+      <li>VPS $5 mandiri</li>
+      <li>tunnel cloudflared</li>
+      <li>kuota 30 submit/hari</li>
+      <li>gerbang NIM</li>
+      <li>analitik admin</li>
+    </ul>
+    <div class="pf-actions">
+      <a class="btn" href="https://github.com/asaeltarigan" rel="noopener">Sumber</a>
+    </div>
+  </div>
+</div>
 
-<h2 class="teaching-section">Portal Kuis Mata Kuliah</h2>
-<p>Portal kuis mingguan untuk mata kuliah machine learning: satu percobaan per mahasiswa, gerbang NIM, penilaian otomatis, dan umpan balik instan.</p>
-
-<h2 class="teaching-section">Alat Belajar Interaktif</h2>
-<p>Alat visual berbasis web yang membuat konsep ML abstrak mudah dipahami, misalnya visualisasi backpropagation dengan model mental empat langkah (tebak, ukur, salahkan, dorong).</p>
-
-<h2 class="teaching-section">Build Diary</h2>
-<p>Log publik <a href="https://github.com/asaeltarigan/build-diary">otomatis</a> tentang apa yang saya rilis setiap minggu, dikomit dengan jujur: bukti kerja nyata, bukan sekadar klaim.</p>
+<div class="pf-grid">
+  <a class="pf-card" href="/id/portofolio/">
+    <h3 class="pf-card-title">Alat Belajar Interaktif</h3>
+    <p class="pf-card-excerpt">Alat visual berbasis web yang membuat konsep ML abstrak mudah dipahami.</p>
+    <div class="pf-chips">
+      <span class="pf-chip">file tunggal</span>
+      <span class="pf-chip">berbasis browser</span>
+      <span class="pf-chip">tanpa backend</span>
+    </div>
+    <span class="pf-card-cta">Jelajahi proyek &rsaquo;</span>
+  </a>
+  <a class="pf-card" href="/id/portofolio/">
+    <h3 class="pf-card-title">Portal Kuis Mata Kuliah</h3>
+    <p class="pf-card-excerpt">Portal kuis mingguan untuk mata kuliah machine learning dengan penilaian otomatis dan umpan balik instan.</p>
+    <div class="pf-chips">
+      <span class="pf-chip">FastAPI</span>
+      <span class="pf-chip">gerbang NIM</span>
+      <span class="pf-chip">penilaian otomatis</span>
+    </div>
+    <span class="pf-card-cta">Jelajahi proyek &rsaquo;</span>
+  </a>
+  <a class="pf-card" href="https://github.com/asaeltarigan/build-diary" rel="noopener">
+    <h3 class="pf-card-title">Build Diary</h3>
+    <p class="pf-card-excerpt">Log publik otomatis tentang apa yang saya rilis setiap minggu, dikomit dengan jujur.</p>
+    <div class="pf-chips">
+      <span class="pf-chip">otomatis</span>
+      <span class="pf-chip">repositori publik</span>
+      <span class="pf-chip">tanpa komit palsu</span>
+    </div>
+    <span class="pf-card-cta">Jelajahi proyek &rsaquo;</span>
+  </a>
+</div>
