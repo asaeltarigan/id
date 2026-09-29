@@ -99,15 +99,17 @@ html[data-theme="dark"] .author__bio {
   font-size: 0.85em;
 }
 
-/* Content must clear the theme's pinned (.page__footer position:fixed) footer.
-   Keep the footer in normal flow on desktop so it never overlaps content. */
+/* Footer stays pinned to the bottom of the screen (position:fixed on desktop;
+   relative on mobile). A pinned footer always covers the bottom ~60px band, so the
+   last content row would sit permanently behind it at full scroll. Give the page
+   bottom padding so the final content can always be scrolled clear of the footer. */
 @media (min-width: 769px) {
   .page__footer {
-    position: static;
-    float: none;
-    margin-top: 2em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
-  #main { padding-bottom: 2em; }
+  body { padding-bottom: 4em; }
 }
 
 /* ---------- Blog list cards with thumbnails ---------- */
