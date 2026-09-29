@@ -48,6 +48,20 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+id-ID: &DEFAULT_ID
+  <<: *DEFAULT_EN
+  more_label                 : "Pelajari Lebih Lanjut"
+  follow_label               : "Sosial"
+  feed_label                 : "Umpan"
+  website_label              : "Situs Web"
+  email_label                : "Email"
+  recent_posts               : "Postingan Terbaru"
+  site_map                   : "Peta Situs"
+  talk_start_time_label      : "Waktu mulai"
+  talk_end_time_label        : "Waktu selesai"
+  talk_talk_label            : "Bicara"
+  talk_slide_label           : "Slide"
+  talk_location_label        : "Lokasi"
 
 # Spanish
 # --------------
