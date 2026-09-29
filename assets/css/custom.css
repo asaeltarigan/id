@@ -99,6 +99,11 @@ html[data-theme="dark"] .author__bio {
   font-size: 0.85em;
 }
 
+/* Content must clear the theme's pinned (.page__footer position:fixed) footer. */
+@media (min-width: 769px) {
+  #main { padding-bottom: 5em; }
+}
+
 /* ---------- Blog list cards with thumbnails ---------- */
 
 .blog-list {
