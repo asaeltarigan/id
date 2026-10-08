@@ -1,7 +1,4 @@
 main:
-  - title: "Beranda"
-    url: /
-
   - title: "Publikasi"
     url: /publikasi/
 
