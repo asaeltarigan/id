@@ -10,70 +10,74 @@
 <link rel="alternate" hreflang="x-default" href="https://asaeltarigan.github.io/">
 {% endif %}
 
+{% assign site_url = site.url | append: site.baseurl %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://asaeltarigan.github.io/id/#person",
-  "name": "Gabriel Asael Tarigan",
-  "alternateName": "Asael Tarigan",
-  "givenName": "Gabriel Asael",
-  "familyName": "Tarigan",
-  "honorificSuffix": "S.Kom., M.Kom.",
-  "jobTitle": "Dosen AI (Artificial Intelligence) di BINUS University",
-  "worksFor": {
-    "@type": "EducationalOrganization",
-    "name": "BINUS University",
-    "alternateName": "Universitas Bina Nusantara",
-    "url": "https://socs.binus.ac.id/"
-  },
-  "alumniOf": [
+  "@graph": [
+{% if page.url == "/" %}    {
+      "@type": "WebSite",
+      "@id": "{{ site_url }}/#website",
+      "url": "{{ site_url }}/",
+      "name": "Gabriel Asael Tarigan",
+      "publisher": { "@id": "{{ site_url }}/#person" }
+    },
     {
-      "@type": "EducationalOrganization",
-      "name": "BINUS University",
-      "alternateName": "Universitas Bina Nusantara",
-      "url": "https://binus.ac.id/"
+      "@type": "ProfilePage",
+      "@id": "{{ site_url }}/#profile-page",
+      "url": "{{ site_url }}/",
+      "name": "Gabriel Asael Tarigan",
+      "isPartOf": { "@id": "{{ site_url }}/#website" },
+      "mainEntity": { "@id": "{{ site_url }}/#person" }
+    },
+{% endif %}    {
+      "@type": "Person",
+      "@id": "{{ site_url }}/#person",
+      "name": "Gabriel Asael Tarigan",
+      "alternateName": "Asael Tarigan",
+      "givenName": "Gabriel Asael",
+      "familyName": "Tarigan",
+      "honorificSuffix": "S.Kom., M.Kom.",
+      "jobTitle": "Dosen AI (Artificial Intelligence) di BINUS University",
+      "worksFor": {
+        "@type": "EducationalOrganization",
+        "name": "BINUS University",
+        "alternateName": "Universitas Bina Nusantara",
+        "url": "https://socs.binus.ac.id/"
+      },
+      "alumniOf": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "BINUS University",
+          "alternateName": "Universitas Bina Nusantara",
+          "url": "https://binus.ac.id/"
+        }
+      ],
+      "knowsLanguage": ["id", "en"],
+      "knowsAbout": [
+        "Artificial Intelligence",
+        "Kecerdasan Buatan",
+        "Machine Learning",
+        "Pembelajaran Mesin",
+        "Deep Learning",
+        "Computer Vision",
+        "MLOps",
+        "Peramalan Deret Waktu"
+      ],
+      "url": "{{ site_url }}/",
+      "identifier": "https://orcid.org/0009-0005-2246-5209",
+      "sameAs": [
+        "https://orcid.org/0009-0005-2246-5209",
+        "https://scholar.google.com/citations?user=FCaQ7i0AAAAJ",
+        "https://www.researchgate.net/profile/Gabriel-Asael-Tarigan",
+        "https://www.linkedin.com/in/gabrielasael/",
+        "https://asaeltarigan.medium.com/",
+        "https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/",
+        "https://github.com/asaeltarigan",
+        "https://asaeltarigan.github.io/"
+      ]
     }
-  ],
-  "knowsLanguage": ["id", "en"],
-  "knowsAbout": [
-    "Artificial Intelligence",
-    "Kecerdasan Buatan",
-    "Machine Learning",
-    "Pembelajaran Mesin",
-    "Deep Learning",
-    "Computer Vision",
-    "MLOps",
-    "Peramalan Deret Waktu"
-  ],
-  "url": "https://asaeltarigan.github.io/id/",
-  "identifier": "https://orcid.org/0009-0005-2246-5209",
-  "sameAs": [
-    "https://orcid.org/0009-0005-2246-5209",
-    "https://scholar.google.com/citations?user=FCaQ7i0AAAAJ",
-    "https://www.researchgate.net/profile/Gabriel-Asael-Tarigan",
-    "https://www.linkedin.com/in/gabrielasael/",
-    "https://asaeltarigan.medium.com/",
-    "https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/",
-    "https://github.com/asaeltarigan",
-    "https://asaeltarigan.github.io/"
   ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "@id": "https://asaeltarigan.github.io/id/#website",
-  "name": "Gabriel Asael Tarigan",
-  "alternateName": "Dosen AI (Kecerdasan Buatan) di BINUS University",
-  "url": "https://asaeltarigan.github.io/id/",
-  "publisher": {
-    "@type": "Person",
-    "@id": "https://asaeltarigan.github.io/id/#person",
-    "name": "Gabriel Asael Tarigan"
-  }
 }
 </script>
 
