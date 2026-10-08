@@ -520,8 +520,10 @@ a:hover, a:focus { color: var(--ds-accent-strong); }
 .sidebar .author__desktop { font-size: 0.72rem !important; }
 .sidebar .author__urls li a { color: #64748b; }
 
-/* Masthead + footer ride the gradient instead of painting white */
-.masthead, .page__footer { background: transparent; }
+/* Masthead + footer: frosted backdrop so content doesn't bleed through on scroll */
+.masthead, .page__footer { background: rgba(255, 255, 255, 0.92); backdrop-filter: blur(4px); }
+html[data-theme="dark"] .masthead,
+html[data-theme="dark"] .page__footer { background: rgba(17, 28, 49, 0.92); backdrop-filter: blur(4px); }
 .masthead::after { background: var(--ds-line); }
 .page__footer { border-top: 1px solid var(--ds-line); }
 
