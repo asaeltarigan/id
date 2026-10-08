@@ -10,11 +10,7 @@ redirect_from:
 
 *Versi Bahasa Inggris dari situs ini tersedia di [asaeltarigan.github.io](https://asaeltarigan.github.io/).*
 
-Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan Peneliti di [BINUS University](https://www.binus.ac.id) (School of Computer Science). Saya merancang dan menulis kurikulum inti AI/ML, sekaligus membangun sistem produksi yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual yang interaktif.
-
-Fokus penelitian saya: **Deep Learning**, **Computer Vision** (pose estimation dan deteksi engagement), **Peramalan Deret Waktu**, dan **Sistem ML Terapan**. Saat ini saya sedang mempersiapkan aplikasi program doktoral (PhD) di bidang machine learning.
-
-Sebelumnya, saya terpilih dari lebih dari 63.000 peserta untuk mengikuti **Bangkit Academy**, program pengembangan karier yang dipimpin Google, dan saya juga terpilih dalam **Faculty Development Program (FDP)** BINUS University, yang membiayai penuh studi magister saya.
+Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan Peneliti di [BINUS University](https://www.binus.ac.id) (School of Computer Science). Saya merancang dan menulis kurikulum inti AI/ML, sekaligus membangun sistem produksi yang menjalankannya (platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif). Saya terpilih dari lebih dari 63.000 peserta untuk mengikuti **Bangkit Academy**, program pengembangan karier yang dipimpin Google, dan terpilih dalam **Faculty Development Program (FDP)** BINUS University, yang membiayai penuh studi magister saya. Fokus penelitian saya: **Deep Learning**, **Computer Vision** (pose estimation dan deteksi engagement), **Peramalan Deret Waktu**, dan **Sistem ML Terapan**. Saat ini saya sedang mempersiapkan aplikasi program doktoral (PhD) di bidang machine learning.
 
 ## Minat Penelitian
 
