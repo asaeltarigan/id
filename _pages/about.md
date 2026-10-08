@@ -12,6 +12,16 @@ redirect_from:
 
 Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan **Peneliti** di [BINUS University](https://www.binus.ac.id) (School of Computer Science), dengan peran sebagai **Subject Developer** dan penanggung jawab **Community Outreach** untuk program Artificial Intelligence. Saya merancang dan menulis **kurikulum inti AI/ML**, membangun **sistem produksi** yang menjalankannya (platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif), serta membimbing proyek mahasiswa dan tim kompetisi nasional. Saya terpilih dari lebih dari **63.000 peserta** untuk mengikuti **Bangkit Academy**, program pengembangan karier yang dipimpin Google, dan terpilih dalam **Faculty Development Program (FDP)** BINUS University, yang membiayai penuh studi magister saya.
 
+<ul class="role-chips">
+<li>Lecturer Specialist, Program AI (BINUS)</li>
+<li>Penyusun Kurikulum, Program AI (BINUS)</li>
+<li>Koordinator Kompetisi Machine Learning Nasional, ARISE &amp; AIPLEX</li>
+<li>Peneliti Machine Learning Terapan</li>
+<li>Peer Reviewer, EMACS Journal</li>
+<li>Session Chair, ICCSCI</li>
+<li>Pengabdian Masyarakat</li>
+</ul>
+
 ## Minat Penelitian
 
 * **Computer Vision**: pose estimation, pelacakan skeletal keypoint, dan deteksi engagement.

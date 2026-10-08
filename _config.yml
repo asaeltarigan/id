@@ -26,16 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Gabriel Asael Tarigan, S.Kom., M.Kom."
   pronouns         : # example: "she/her"  
-  bio              : >-
-    <ul class="author-roles">
-    <li>Lecturer Specialist, Program AI (BINUS)</li>
-    <li>Penyusun Kurikulum, Program AI (BINUS)</li>
-    <li>Koordinator Kompetisi Machine Learning Nasional, ARISE &amp; AIPLEX</li>
-    <li>Peneliti Machine Learning Terapan</li>
-    <li>Peer Reviewer, EMACS Journal</li>
-    <li>Session Chair, ICCSCI</li>
-    <li>Pengabdian Masyarakat</li>
-    </ul>
+  bio              : "Dosen AI & Peneliti di BINUS University."
   location         : "Jakarta, Indonesia"
   employer         : "BINUS University"
   uri              : # URL
