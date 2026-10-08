@@ -14,9 +14,7 @@ Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan Penel
 
 Fokus penelitian saya: **Deep Learning**, **Computer Vision** (pose estimation dan deteksi engagement), **Peramalan Deret Waktu**, dan **Sistem ML Terapan**. Saat ini saya sedang mempersiapkan aplikasi program doktoral (PhD) di bidang machine learning.
 
-## Latar Belakang
-
-Saya terpilih dari lebih dari 63.000 peserta untuk mengikuti **Bangkit Academy**, program pengembangan karier yang dipimpin Google. Saya juga terpilih dalam **Faculty Development Program (FDP)** BINUS University, yang membiayai penuh studi magister saya.
+Sebelumnya, saya terpilih dari lebih dari 63.000 peserta untuk mengikuti **Bangkit Academy**, program pengembangan karier yang dipimpin Google, dan saya juga terpilih dalam **Faculty Development Program (FDP)** BINUS University, yang membiayai penuh studi magister saya.
 
 ## Minat Penelitian
 
