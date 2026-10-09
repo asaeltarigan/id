@@ -51,7 +51,7 @@ en-AU:
 id-ID: &DEFAULT_ID
   <<: *DEFAULT_EN
   more_label                 : "Pelajari Lebih Lanjut"
-  follow_label               : "Sosial"
+  follow_label               : "Kontak"
   feed_label                 : "Umpan"
   website_label              : "Situs Web"
   email_label                : "Email"
