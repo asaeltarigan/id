@@ -10,7 +10,7 @@ author_profile: true
 <div class="pf-feature">
   <div class="pf-feature-body">
     <span class="pf-feature-flag">Karya utama</span>
-    <h2 class="pf-feature-title">Platform Kompetisi ML (ARISE)</h2>
+    <h2 class="pf-feature-title">ARISE - Kompetisi Machine Learning Nasional</h2>
     <p class="pf-feature-excerpt">Platform kompetisi machine learning gaya Kaggle untuk mahasiswa AI BINUS, dihosting efisien pada satu VPS.</p>
     <ul class="pf-stats">
       <li>FastAPI + uvicorn</li>

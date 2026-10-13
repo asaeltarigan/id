@@ -32,7 +32,7 @@ Saya adalah **Dosen AI (Artificial Intelligence / Kecerdasan Buatan)** dan **Pen
 
 ## Sistem dan Proyek Terpilih
 
-* **Platform Kompetisi ML (ARISE)**: sistem kompetisi gaya Kaggle untuk mahasiswa AI BINUS, dihosting efisien pada satu VPS (FastAPI, tunnel cloudflared, kuota submit harian, pipeline penilaian otomatis, dan analitik).
+* **ARISE - Kompetisi Machine Learning Nasional**: sistem kompetisi gaya Kaggle untuk mahasiswa AI BINUS, dihosting efisien pada satu VPS (FastAPI, tunnel cloudflared, kuota submit harian, pipeline penilaian otomatis, dan analitik).
 * **Portal Kuis dan Evaluasi Mata Kuliah**: portal asesmen dengan satu percobaan dan gerbang NIM untuk mata kuliah machine learning, dengan penilaian otomatis waktu nyata dan umpan balik.
 * **Visualisasi Backpropagation Interaktif**: alat visual berbasis web untuk mengajarkan backpropagation jaringan saraf melalui model mental empat langkah (*tebak, ukur, salahkan, dorong*).
 * **Build Diary**: [repositori publik otomatis](https://github.com/asaeltarigan/build-diary) yang mendokumentasikan rilis produksi mingguan dan eksperimen teknis.

@@ -10,7 +10,7 @@ experience:
     location: "Jakarta, Indonesia"
     description: "Merancang kurikulum inti AI: machine learning, NLP terapan, deep learning, computer vision, MLOps, pemrosesan sinyal, serta IoT dan robotika, termasuk silabus lengkap, desain asesmen (AoL), laboratorium, dan rangkaian perkuliahan."
   - time: "2026"
-    title: "Machine Learning Operations (COMP6984001)"
+    title: "COMP6984001- Machine Learning Operations"
     org: "BINUS University, Program Pascasarjana"
     location: "Jakarta, Indonesia"
     description: "Mata kuliah pascasarjana tentang siklus hidup sistem machine learning produksi: eksperimen, penyajian model (model serving), pemantauan, dan disiplin operasional."
