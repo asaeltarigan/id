@@ -10,11 +10,11 @@ redirect_from:
 
 *Versi Bahasa Inggris dari situs ini tersedia di [asaeltarigan.github.io](https://asaeltarigan.github.io/).*
 
-Aku mulai mengajar jauh sebelum ini menjadi sebuah pekerjaan. Kelas sekolah minggu di akhir pekan, les privat sepulang sekolah — dan alasan jujurnya aku terus melakukannya adalah karena mengajar ternyata menjadi caraku sendiri untuk belajar — dan tidak ada perasaan yang sebanding dengan melihat seseorang akhirnya bertumbuh. Perasaan yang sama masih menggerakkan semua yang kulakukan sekarang.
+Saya mulai mengajar jauh sebelum ini menjadi sebuah pekerjaan. Kelas sekolah minggu di akhir pekan, les privat sepulang sekolah — dan alasan jujurnya saya terus melakukannya adalah karena mengajar ternyata menjadi caraku sendiri untuk belajar — dan tidak ada perasaan yang sebanding dengan melihat seseorang akhirnya bertumbuh. Perasaan yang sama masih menggerakkan semua yang kulakukan sekarang.
 
-Saat ini aku adalah [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) di [Fakultas Ilmu Komputer BINUS University](https://www.binus.ac.id). Aku merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Aku juga membimbing proyek mahasiswa dan tim kompetisi nasional.
+Saat ini saya adalah [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) di [Fakultas Ilmu Komputer BINUS University](https://www.binus.ac.id). Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
 
-Dan aku pernah duduk di kursi yang sama dengan mahasiswaku sekarang. Aku diterima di Bangkit dari lebih dari 63.000 pelamar, dan [Faculty Development Program](https://www.binus.ac.id) BINUS membiayai penuh studi magisterku. Jadi aku mengenal jalan ini dari dalam — dan aku bisa meneruskan perasaan itu kepada orang yang baru akan memulai.
+Dan saya pernah duduk di kursi yang sama dengan mahasiswaku sekarang. Saya diterima di Bangkit dari lebih dari 63.000 pelamar, dan [Faculty Development Program](https://www.binus.ac.id) BINUS membiayai penuh studi magisterku. Jadi saya mengenal jalan ini dari dalam — dan saya bisa meneruskan perasaan itu kepada orang yang baru akan memulai.
 
 <ul class="role-chips">
 <li>Lecturer Specialist, Program AI (BINUS)</li>
