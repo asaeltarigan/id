@@ -24,6 +24,7 @@ Dan saya pernah duduk di kursi yang sama dengan mahasiswaku sekarang. Saya diter
 <li>Peer Reviewer, EMACS Journal</li>
 <li>Session Chair, ICCSCI</li>
 <li>Pengabdian Masyarakat</li>
+<li>CIPHER 2026 Artificial Intelligence Hive Coordinator</li>
 </ul>
 
 ## Minat Penelitian
