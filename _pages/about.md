@@ -15,7 +15,7 @@ Saya mulai mengajar jauh sebelum ini menjadi sebuah pekerjaan. Kelas sekolah min
 
 Saat ini saya adalah dosen ilmu komputer di [BINUS University](https://www.binus.ac.id), dengan jabatan [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) pada Program Artificial Intelligence (AI), School of Computer Science. Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
 
-Saya sampai ke semua ini sebagai mahasiswa lebih dulu. Saya diterima di Bangkit dari lebih dari 63.000 pelamar, dan [Faculty Development Program](https://www.binus.ac.id) BINUS membiayai penuh studi magisterku. Jadi jalan ini tidak abstrak bagi saya, dan saya bisa meneruskan perasaan itu kepada orang yang baru akan memulai.
+Sebelum bergabung sebagai dosen, saya lebih dulu menjadi mahasiswa pada program yang sama: terpilih dalam Bangkit Academy Machine Learning Cohort 2022 dari lebih dari 63.000 pelamar, dan penerima beasiswa [Faculty Development Program](https://www.binus.ac.id) (FDP) BINUS untuk studi magister.
 
 <ul class="role-chips">
 <li>Lecturer Specialist, Program Artificial Intelligence (AI), School of Computer Science (BINUS)</li>
