@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "id-ID"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Gabriel Asael Tarigan | Dosen AI & Ilmu Komputer"
+title                    : "Gabriel Asael Tarigan | Dosen Artificial Intelligence & Ilmu Komputer"
+masthead_title           : "Gabriel Asael Tarigan | AI & CS" # bentuk pendek untuk bilah atas
 title_separator          : "-"
 name                     : &name "Gabriel Asael Tarigan"
 description              : &description "Gabriel Asael Tarigan, S.Kom., M.Kom. - Dosen & Peneliti pada Program Artificial Intelligence (AI), School of Computer Science, BINUS University, Jakarta. Dosen ilmu komputer yang merancang kurikulum AI/ML, membangun sistem machine learning, dan meneliti deep learning untuk peramalan deret waktu."
