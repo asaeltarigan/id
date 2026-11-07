@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Gabriel Asael Tarigan | Dosen AI di BINUS University"
 title_separator          : "-"
 name                     : &name "Gabriel Asael Tarigan"
-description              : &description "Gabriel Asael Tarigan, S.Kom., M.Kom., Dosen AI (Artificial Intelligence / Kecerdasan Buatan) di BINUS University. Merancang kurikulum AI/ML, membangun sistem machine learning, dan meneliti deep learning untuk peramalan deret waktu."
+description              : &description "Gabriel Asael Tarigan, S.Kom., M.Kom., Dosen & Peneliti AI (Artificial Intelligence / Kecerdasan Buatan), Program Artificial Intelligence (AI), School of Computer Science, BINUS University. Merancang kurikulum AI/ML, membangun sistem machine learning, dan meneliti deep learning untuk peramalan deret waktu."
 url                      : https://asaeltarigan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/id" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Gabriel Asael Tarigan, S.Kom., M.Kom."
   pronouns         : # example: "she/her"  
-  bio              : "Dosen & Peneliti Kecerdasan Buatan"
+  bio              : "Dosen & Peneliti Kecerdasan Buatan<br>Program Artificial Intelligence (AI), School of Computer Science"
   location         : "Jakarta, Indonesia"
   employer         : "BINUS University"
   uri              : # URL

@@ -12,12 +12,12 @@ redirect_from:
 
 Saya mulai mengajar jauh sebelum ini menjadi sebuah pekerjaan. Kelas sekolah minggu di akhir pekan, les privat sepulang sekolah — dan alasan jujurnya saya terus melakukannya adalah karena mengajar ternyata menjadi caraku sendiri untuk belajar — dan tidak ada perasaan yang sebanding dengan melihat seseorang akhirnya bertumbuh. Perasaan yang sama masih menggerakkan semua yang kulakukan sekarang.
 
-Saat ini saya adalah [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) di [Fakultas Ilmu Komputer BINUS University](https://www.binus.ac.id). Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
+Saat ini saya adalah [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) pada Program Artificial Intelligence (AI), School of Computer Science, [BINUS University](https://www.binus.ac.id). Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
 
 Dan saya pernah duduk di kursi yang sama dengan mahasiswaku sekarang. Saya diterima di Bangkit dari lebih dari 63.000 pelamar, dan [Faculty Development Program](https://www.binus.ac.id) BINUS membiayai penuh studi magisterku. Jadi saya mengenal jalan ini dari dalam — dan saya bisa meneruskan perasaan itu kepada orang yang baru akan memulai.
 
 <ul class="role-chips">
-<li>Lecturer Specialist, Program AI (BINUS)</li>
+<li>Lecturer Specialist, Program Artificial Intelligence (AI), School of Computer Science (BINUS)</li>
 <li>Penyusun Kurikulum, Program AI (BINUS)</li>
 <li>Koordinator Kompetisi Machine Learning Nasional, ARISE &amp; AIPLEX</li>
 <li>Peneliti Machine Learning Terapan</li>
