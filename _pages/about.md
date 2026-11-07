@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Gabriel Asael Tarigan, S.Kom., M.Kom."
-seo_title: "Gabriel Asael Tarigan | Dosen AI (Kecerdasan Buatan) di BINUS University"
+seo_title: "Gabriel Asael Tarigan | Dosen AI & Ilmu Komputer"
+description: "Gabriel Asael Tarigan adalah dosen dan peneliti ilmu komputer di BINUS University, mengajar pada Program Artificial Intelligence (AI), School of Computer Science. Bidangnya machine learning terapan, sistem ML, dan MLOps, serta perancangan kurikulum AI."
 author_profile: true
 redirect_from:
   - /tentang/
@@ -18,6 +19,7 @@ Dan saya pernah duduk di kursi yang sama dengan mahasiswaku sekarang. Saya diter
 
 <ul class="role-chips">
 <li>Lecturer Specialist, Program Artificial Intelligence (AI), School of Computer Science (BINUS)</li>
+<li>Dosen Ilmu Komputer, School of Computer Science (BINUS)</li>
 <li>Penyusun Kurikulum, Program AI (BINUS)</li>
 <li>Koordinator Kompetisi Machine Learning Nasional, ARISE &amp; AIPLEX</li>
 <li>Peneliti Machine Learning Terapan</li>
