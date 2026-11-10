@@ -21,7 +21,7 @@ author_profile: true
       <li>analitik admin</li>
     </ul>
     <div class="pf-actions">
-      <a class="btn" href="https://github.com/asaeltarigan" rel="noopener">Sumber</a>
+      <a class="btn" href="https://github.com/asaeltarigan/arise-competition-platform" rel="noopener">Sumber</a>
     </div>
   </div>
 </div>
