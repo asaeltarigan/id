@@ -2,7 +2,7 @@
 permalink: /
 title: "Gabriel Asael Tarigan, S.Kom., M.Kom."
 seo_title: "Gabriel Asael Tarigan | Dosen Artificial Intelligence & Ilmu Komputer"
-description: "Gabriel Asael Tarigan adalah dosen dan peneliti ilmu komputer di BINUS University, mengajar pada Program Artificial Intelligence (AI), School of Computer Science. Bidangnya machine learning terapan, sistem ML, dan MLOps, serta perancangan kurikulum AI."
+description: "Gabriel Asael Tarigan adalah dosen dan peneliti ilmu komputer di BINUS University, mengajar pada Program Artificial Intelligence (AI), School of Computer Science. Bidangnya machine learning terapan, sistem ML, dan MLOps, serta perancangan kurikulum AI. Ia mengajar di BINUS University sejak 2025."
 author_profile: true
 redirect_from:
   - /tentang/
@@ -13,7 +13,7 @@ redirect_from:
 
 Saya mulai mengajar jauh sebelum ini menjadi sebuah pekerjaan. Kelas sekolah minggu di akhir pekan, les privat sepulang sekolah, dan alasan jujurnya saya terus melakukannya adalah karena mengajar ternyata menjadi caraku sendiri untuk belajar. Tidak ada perasaan yang sebanding dengan melihat seseorang akhirnya bertumbuh. Perasaan yang sama masih menggerakkan semua yang kulakukan sekarang.
 
-Saat ini saya adalah dosen ilmu komputer di [BINUS University](https://www.binus.ac.id), dengan jabatan [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) pada Program Artificial Intelligence (AI), School of Computer Science. Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
+Saat ini saya adalah dosen ilmu komputer di [BINUS University](https://www.binus.ac.id) dan sudah mengajar di sana sejak 2025, dengan jabatan [Dosen Spesialis](https://socs.binus.ac.id/artificial-intelligence/people/gabriel-asael-tarigan-s-kom-m-kom/) pada Program Artificial Intelligence (AI), School of Computer Science. Saya merancang kurikulum inti AI/ML program ini dan membangun sistem yang menjalankannya: platform kompetisi machine learning, portal evaluasi otomatis, dan alat bantu belajar visual interaktif. Saya juga membimbing proyek mahasiswa dan tim kompetisi nasional.
 
 Sebelum saya bergabung sebagai dosen. Sebagai mahasiswa, saya terpilih untuk Bangkit Academy - Machine Learning Cohort 2022 dari Google & GoTo, terpilih dari lebih dari 63.000 pelamar. Saya juga penerima Beasiswa Faculty Development Program (FDP) BINUS, yang memberikan beasiswa penuh untuk studi magister saya.
 
