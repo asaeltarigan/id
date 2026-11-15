@@ -7,6 +7,38 @@ author_profile: true
 
 Daftar publikasi penelitian. Judul dan venue dipertahankan dalam bahasa asli (Inggris) sesuai standar akademik. Profil sitasi lengkap tersedia di [Google Scholar](https://scholar.google.com/citations?user=FCaQ7i0AAAAJ) dan [ResearchGate](https://www.researchgate.net/profile/Gabriel-Asael-Tarigan).
 
+## Karya Pilihan
+
+Enam karya yang membawa rekam jejak, dipimpin oleh arah NLP dan LLM terkini. Jika nama saya tidak berada di urutan pertama penulis, karya tersebut dikerjakan bersama mahasiswa dan kolega yang saya supervisi.
+
+* **Emotional Framing Effects on Medical Triage in General-Purpose and Medical-Adapted LLMs** (2026)  
+  *IEEE ICICyTA* (diterima).  
+  *448 skenario triase dan 1.792 prompt. Pembingkaian emosional hanya menggeser maksimal 7,4% kasus, dan nada cemas justru menurunkan urgensi karena kedua model sudah cenderung over-triage.*
+
+* **Lighter Student Engagement Recognition in a Classroom Environment Using Skeletal Keypoints** (2025)  
+  *IAENG International Journal of Computer Science*, 52(6), 1997-2014. [PDF](https://asaeltarigan.github.io/files/lighter-student-engagement-ijcs.pdf)  
+  *Hasil inti tesis magister: deteksi orang dengan YOLOv8m dan keypoint MediaPipe yang disalurkan ke pengklasifikasi ringan, mengungguli baseline YOLOv4 dan OpenPose pada akurasi maupun kecepatan.*
+
+* **Analyzing Indonesian Political Hoax Detection System on Social Media Using Deep Learning and Natural Language Processing** (2025)  
+  *Procedia Computer Science*, 269, 1742-1751. [DOI](https://doi.org/10.1016/j.procs.2025.09.117)  
+  *Titik awal lini NLP saya: deep learning dan pemodelan bahasa untuk deteksi hoaks pada teks media sosial Indonesia.*
+
+* **Skeletal Keypoint-Based Pipeline as a Computer Vision-Based Approaches** (2026)  
+  *Communications in Mathematical Biology and Neuroscience*. [DOI](https://doi.org/10.28919/cmbn/9820)  
+  *Desain pipeline yang cermat mengalahkan kompleksitas arsitektur untuk analisis perilaku di ruang kelas.*
+
+* **Parallelization of LSTM-GRU Architectures for Multivariate Prediction of Stock Prices** (2024)  
+  *IEEE ICIMTech*, pp. 311-315. [DOI](https://doi.org/10.1109/icimtech63123.2024.10780885)  
+  *Arsitektur hibrida LSTM-GRU terparalelisasi untuk sekuens finansial multivariat, dibandingkan dengan pembanding berbasis transformer.*
+
+* **Computer Vision-Based Pose Estimation for Student Engagement Detection: Trends and Challenges** (2025)  
+  *IEEE ICORIS*, pp. 1-5. [DOI](https://doi.org/10.1109/icoris67789.2025.11296082)  
+  *Tinjauan sistematis deteksi keterlibatan berbasis pose, disusun di sekitar tiga masalah yang berulang: keragaman dataset, biaya anotasi, dan kelas yang padat.*
+
+## Karya Terbaru
+
+Seluruh keluaran terbaru, diurutkan dari yang paling baru.
+
 * **Fake Review Detection on E-Commerce Platforms Using a Hybrid Anomaly Detection Approach: Combining Autoencoder and Isolation Forest** (2026)  
   *Research Square* (preprint). [DOI](https://doi.org/10.21203/rs.3.rs-10162747/v1)  
   *Pendekatan deteksi anomali hibrida yang menggabungkan autoencoder dan Isolation Forest untuk mendeteksi ulasan palsu pada platform e-commerce.*
