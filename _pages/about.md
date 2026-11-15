@@ -31,11 +31,12 @@ Sebelum saya bergabung sebagai dosen. Sebagai mahasiswa, saya terpilih untuk Ban
 
 ## Minat Penelitian
 
-* **Computer Vision**: pose estimation, pelacakan skeletal keypoint, dan deteksi engagement.
-* **Deep Learning dan Arsitektur**: model neural hibrida, jaringan LSTM-GRU terparalelisasi, dan Vision Transformer.
-* **Peramalan Deret Waktu**: pemodelan sinyal finansial multivariat dan sinyal sekuensial.
-* **Sistem ML dan MLOps**: pemantauan model end-to-end, inferensi edge, dan integrasi LLM ringan.
-* **Teknologi Pendidikan**: alat belajar berbasis AI, platform asesmen gamifikasi, dan sistem tutor cerdas.
+* **Pemrosesan Bahasa Alami (NLP)**: teks Indonesia bersumber daya rendah, deteksi hoaks dan misinformasi, serta pencarian bukti (*evidence retrieval*).
+* **Model Bahasa Besar (LLM)**: ketahanan terhadap *prompt* dan pembingkaian, adaptasi domain, serta teks klinis dan kesehatan mental.
+* **Retrieval-Augmented Generation (RAG)**: penggabungan pencarian hibrida, *grounding* bukti, dan verifikasi klaim.
+* **Evaluasi dan Ketidakpastian LLM**: kalibrasi, kesetiaan (*faithfulness*), atribusi, dan *benchmarking* berskala besar.
+* **Model Multimodal dan Agentik**: analisis keterlibatan berbasis *vision-language*, agen berbasis *tool-use*, dan rekayasa perangkat lunak berbantuan LLM.
+* **NLP untuk Pendidikan**: asesmen dan umpan balik otomatis, analitik pembelajaran, dan tutor berbasis LLM.
 
 ## Sistem dan Proyek Terpilih
 
